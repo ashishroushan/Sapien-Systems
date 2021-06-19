@@ -1,0 +1,32 @@
+.wrapper-page {
+  margin: 1em 0 1em 1em;
+  padding: 1em 0 1em 1em;
+  box-shadow: 0.1em 0.1em 0.2em -0.1em rgb(241, 240, 240),
+    0.1em 0.1em 0.2em -0.1em rgb(241, 240, 240),
+    0.1em 0.1em 0.2em -0.1em rgb(241, 240, 240),
+    0.1em 0.1em 0.2em 0.1em rgb(241, 240, 240);
+}
+.break-line-black-short {
+  border: 0.01em solid #000;
+  width: 7%;
+}
+.break-line-black {
+  border: 0.01em solid #000;
+}
+.break-line-black-vertical {
+  border: 0.01em solid #000;
+  height: 100%;
+}
+.navlink-custom {
+  display: block;
+  color: rgb(172, 171, 171);
+  font-weight: 600;
+}
+.navlink-custom:hover,
+.navlink-custom:focus {
+  color: #000;
+}
+.wrapper-p-p {
+  display: flex;
+  height: 100%;
+}

@@ -1,0 +1,23 @@
+.break-line-black-medium-package {
+  border: 0.01em solid #000;
+  width: 22rem;
+  transform: translateX(125%);
+}
+.wrapper-details {
+  display: flex;
+}
+.h2-heading-package {
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 1em;
+  margin-left: 70%;
+}
+.h2-heading-package-info{
+    font-weight: 600;
+    margin: 0.5em 2em 0.5em 2em;
+    width: 100%;
+}
+.shift-left{
+    /* right: 50px; */
+    transform: translateX(-50%);
+}

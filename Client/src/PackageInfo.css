@@ -1,0 +1,37 @@
+.wrapper-package-info {
+    display: flex;
+    border: 0.01em solid rgb(201, 195, 195);
+    border-right: none;
+    border-radius: 0.5em 0em 0em 0.5em ;
+    box-shadow: -0.1em 0.2em 0.3em -0.1em rgb(179, 173, 173);
+    padding: 0rem;
+    margin: 1em 0 1em 0;
+}
+.profile-pic{
+    text-align: center;
+    padding: 0.4em 0.4em 0 0.4em;
+    margin: auto 1em;
+}
+.image-icon{
+    vertical-align: baseline;
+    height: 3rem;   
+    padding: 0.4em 0.4em 0 0.4em;
+    margin: auto 1.5em;
+ 
+}
+.caption{
+    color: black;
+}
+.package-name{
+    margin: auto 1.5em;
+    padding: 0.4em 0.8em 0 0.4em;
+}
+.button-custom{
+    padding: 0 2em 0 2em;
+    height: fit-content;
+    margin: auto 1.5em;
+}
+.dates{
+    margin: auto 1.5em;
+    padding: 1em;
+}

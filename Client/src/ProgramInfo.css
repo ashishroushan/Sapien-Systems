@@ -1,0 +1,34 @@
+.wrapper-program-info {
+    display: flex;
+    border: 0.01em solid rgb(201, 195, 195);
+    border-left: none;
+    border-radius: 0em 0.5em 0.5em 0em ;
+    box-shadow: 0.2em 0.2em 0.4em -0.1em rgb(179, 173, 173);
+    margin: 1em 1em 1em 0;
+}
+.threedots:after {
+    display: inline;
+    content: "\2807";
+    font-size: 1.35em;
+    color: black;
+  }
+  .threedots:hover{
+    color: black !important;
+  }
+  .inline-class{
+      display: inline;
+      margin: auto 1em;
+  }
+  .button-custom{
+    padding: 0 2em 0 2em;
+    margin: auto 2em ;
+}
+.dates{
+    margin: auto 1em;
+}
+.profile-pic-program{
+    padding: 0.4em 0.4em 0 0.4em;
+    margin: auto;
+    width: 1em;
+    visibility: hidden;
+}

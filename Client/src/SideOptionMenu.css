@@ -1,0 +1,19 @@
+.side-option-menu-link {
+  display: block;
+  color: #fff;
+  font-weight: 600;
+  margin: 0.5em 0 0em 1em;
+}
+.side-option-menu-link:hover,
+.side-option-menu-link:focus,
+.option-icons:hover {
+  color: rgb(172, 171, 171);
+}
+.wrapper-option-two{
+    display: flex;
+}
+.option-icons{
+    color: #fff;
+    font-size: 1.8rem;
+    margin: 0.5em 0 0em 1em;
+}

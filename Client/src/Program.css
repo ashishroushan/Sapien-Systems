@@ -1,0 +1,20 @@
+.break-line-black-medium-program {
+  border: 0.01em solid #000;
+  width:15rem;
+  transform: translateX(10%)
+}
+.h2-heading-program {
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 1em;
+  margin-left: 30%;
+}
+.h2-heading-program-info{
+    font-weight: 600;
+    margin: 0.5em 2em 0.5em 2em;
+    width: 100%;
+    transform: translateX(30%);
+}
+.shift-right{
+    transform: translateX(60%);
+}

@@ -1,0 +1,26 @@
+.wrapper-options {
+  width: 15%;
+  background-color: rgb(72, 73, 82);
+}
+.wrapper-options-profile {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+.break-line-white {
+    border: 0.1em solid #fff;
+}
+.profile-pic-instructor{
+  margin: auto 1.4em 0;
+  margin-top: 0.5em;
+}
+.name-instructor{
+  color: #fff;
+  font-size: 1em;
+}
+.h3-ocupation{
+  color: #fff;
+  font-size: 0.7em;  
+  margin: 0.1em 0 1em 0;
+}
